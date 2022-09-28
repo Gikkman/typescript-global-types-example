@@ -1,12 +1,6 @@
 {
   "compilerOptions": {
       "strict": true,
-      
-      "incremental": true,
-
-      "moduleResolution": "node",
-      "esModuleInterop": true,
       "outDir": "build",
-  },
-  "include": ["src/**/*"]
+  }
 }
